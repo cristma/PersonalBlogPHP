@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="access.sql" server="ftp.immutableproductions.com/public_html/" local="130166266782719471" remote="130192179000000000" Dst="2" />
+<file name="articles.sql" server="ftp.immutableproductions.com/public_html/" local="130174866448200328" remote="130192179000000000" Dst="2" />
+<file name="article_category_rel.sql" server="ftp.immutableproductions.com/public_html/" local="130166274596839753" remote="130192179000000000" Dst="2" />
+<file name="categories.sql" server="ftp.immutableproductions.com/public_html/" local="130166278442689574" remote="130192179000000000" Dst="2" />
+<file name="install.sql" server="ftp.immutableproductions.com/public_html/" local="130174867718436374" remote="130192179000000000" Dst="2" />
+<file name="posts.sql" server="ftp.immutableproductions.com/public_html/" local="130166297684682903" remote="130192179000000000" Dst="2" />
+<file name="post_category_rel.sql" server="ftp.immutableproductions.com/public_html/" local="130166300606703846" remote="130192179000000000" Dst="2" />
+<file name="projects.sql" server="ftp.immutableproductions.com/public_html/" local="130174866220474792" remote="130192179000000000" Dst="2" />
+<file name="project_category_rel.sql" server="ftp.immutableproductions.com/public_html/" local="130166315529632636" remote="130192179000000000" Dst="2" />
+<file name="users.sql" server="ftp.immutableproductions.com/public_html/" local="130166276598651760" remote="130192179000000000" Dst="2" />
+</dwsync>

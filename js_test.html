@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script src="./js/jquery-1.9.1.js" type="text/javascript"></script>
+<script src="./js/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
+<style>
+.nav-item {
+	background-color: #FFFFFF;
+	padding: 4px;
+	margin: 5px;
+	box-shadow: 0;
+}
+
+.nav-item-hover {
+	background-color: #CCCCCC;
+	border-radius: 5px;
+	border: 1px solid #999999;
+	padding: 3px;
+	box-shadow: 0 0 5px #AAAAAA;
+	margin: 5px;
+}
+
+li {
+	padding:20px;
+	display: table;
+	float: left;
+}
+</style>
+</head>
+<body>
+<script>
+$(document).ready(function() {
+	$("a").hover(
+	function() {		
+		$(this).stop(true, false).animate({
+			backgroundColor:'#CCCCCC'
+		}, 300), 
+		$(this).stop(true, false).animate({
+			backgroundColor:'#FFFFFF'
+		}, 100);
+	});
+});
+</script>
+<ul>
+	<li><a href="#" class="nav-item">Home</a></li>
+	<li><a href="#" class="nav-item">Blog</a></li>
+	<li><a href="#" class="nav-item">Portfolio</a></li>
+	<li><a href="#" class="nav-item">Articles</a></li>
+	<li><a href="#" class="nav-item">About</a></li>
+</ul>
+</body>
+</html>

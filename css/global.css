@@ -1,0 +1,171 @@
+.logo {
+	margin-bottom:50px;
+}
+
+.panel-title a {
+	color: #428bca;
+	font-weight: bolder;
+}
+
+.ajax-link {
+	cursor: pointer;
+}
+
+/* Color combinations 
+ * #0B101B - Dark Slate
+ * #1A202C - Medium Slate
+ * #6F757F - Light Slate
+ * #1F7872 - Medium Blue
+ * #72B095 - Sea Foam
+ * #DEDBA7 - Tan
+ * #D13F31 - Orange
+ */
+ 
+body
+{
+	background-color: #0B101B;
+	color: #1A202C;
+}
+
+a 
+{
+	color: #1F7872;
+}
+
+a:hover
+{
+	color: #D13F31;
+	text-decoration: underline;
+}
+
+.content-header
+{
+	font-family: Rockwell, Helvetica, serif;
+	font-weight: bolder;
+	font-size: 1.1em;
+	color: #D13F31;
+	padding: 0px;
+	border-bottom: 1px dashed #1A202C;
+}
+
+.content-body
+{
+	padding: 5px;
+	color: #72B095;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.content-footer
+{
+	border-top: 1px dashed #1A202C;
+	padding: 5px;
+}
+
+.author
+{
+	color: #DEDBA7;
+}
+
+.panel
+{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	padding-top: 20px;
+}
+
+.badge
+{
+	border-radius: 5px;
+	background-color: #1F7872;
+	padding: 2px;
+	color: #DEDBA7;
+}
+
+.badge:hover
+{
+	background-color: #1A202C;
+	text-decoration: none;
+}
+
+.badge-dark
+{
+	border-radius: 5px;
+	background-color: #1A202C;
+	padding: 2px;
+	color: #DEDBA7;
+}
+
+.badge-dark:hover
+{
+	background-color: #D13F31;
+	color: #1A202C;
+	text-decoration: none;
+}
+
+.vertical-divided-right
+{
+	border-right: 1px dashed #6F757F;
+}
+
+.horizontal-divided-top
+{
+	border-top: 1px dashed #6F757F;
+}
+
+.max-extended
+{
+	width: 100%;
+}
+
+.carousel
+{
+	background-color: #1A202C;
+	height: 300px;
+}
+
+.toolbar
+{
+	display: table;
+	clear: both;
+	list-style-image: none;
+	list-style-type: none;
+	background-color: #D13F31;
+	border-radius: 5px;
+	padding: 2px;
+}
+
+.toolbar li
+{
+	float: left;
+	border-radius: 5px;
+	background-color: #1A202C;
+	padding: 3px;
+	margin-left: 2px;
+	margin-right: 2px;
+	border: 0px;
+}
+
+.toolbar li:hover
+{
+	background-color: #72B095;
+	border; 0px;
+}
+
+.nav-bar
+{
+	margin-top: 30px;
+}
+
+.nav-item
+{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 10px;
+}
+
+img
+{
+	width: 100%;
+	height: auto;
+}
