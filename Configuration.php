@@ -3,11 +3,11 @@
 // SQL Configuration Information
 $sql_username = "test";
 $sql_password = "test";
-$sql_database = "test";
+$sql_database = "imaginecode";
 
 // Root folder
-$root = "C:/inetpub/wwwroot/immutable/";
-$url  = "http://localhost/immutable/";
+$root = "/var/www/html/PersonalBlogPHP/";
+$url  = "http://localhost/PersonalBlogPHP/";
 
 // Access levels (weight values)
 $blog_post_level = 3;
